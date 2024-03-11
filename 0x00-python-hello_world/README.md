@@ -1,0 +1,1 @@
+Explore the "0x00-python-hello_world" directory, your gateway to foundational Python programming. Dive into essential projects and exercises crafted to acquaint you with Python syntax, basic concepts, and best practices. Get ready for a hands-on introduction to the fundamentals of Python!
